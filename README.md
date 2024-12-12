@@ -1,2 +1,1 @@
-# NoteLLM
-LLM with pdf input
+# FileLLM
